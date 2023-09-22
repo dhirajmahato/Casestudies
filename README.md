@@ -1,6 +1,6 @@
 Popular case studies/ Usecases notebooks usually asked in interviews along with solutions
 
-Usual Steps:
+#### Usual Steps:
 
 1. **Problem Definition**: Clearly define the problem you want to solve. This includes specifying the goal of your machine learning project and understanding the business or practical context.
 2. **Data Collection**: Gather the data required for your machine learning task. This may involve acquiring data from various sources, such as databases, APIs, or sensors.
